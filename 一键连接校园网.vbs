@@ -1,8 +1,8 @@
- ' ×¢ÒâµÚÒ»´ÎĞèÒªĞŞ¸ÄÄãµÄÉí·İÖ¤+ÔËĞĞÉÌËõĞ´£¨ÒÔºóÎŞĞèÖ±½ÓÓÃ£©¼ÇµÃ±£´æÎÄ¼ş
- ' ÖĞ¹úÒÆ¶¯cmccÖĞ¹úµçĞÅtelecomÖĞ¹úÁªÍ¨cucc(Ò²¾ÍÊÇÉí·İÖ¤ºóÃæĞèÒª¸ÄµÄ@ºóÃæµÄÒÑ¾­±ê×¢ÁË¸ÄÎÒ)
- ' ÃÜÂëÄ¬ÈÏ6¸ö8¿´Äã×Ô¼ºÉèÖÃ
- ' ¸Ãvbs½Å±¾ÏĞÀ´ÎŞÊÂ±àĞ´£¬Ãâ·ÑÊ¹ÓÃ-----hytongxue
+ ' æ³¨æ„ç¬¬ä¸€æ¬¡éœ€è¦ä¿®æ”¹ä½ çš„èº«ä»½è¯+è¿è¡Œå•†ç¼©å†™ï¼ˆä»¥åæ— éœ€ç›´æ¥ç”¨ï¼‰è®°å¾—ä¿å­˜æ–‡ä»¶
+ ' ä¸­å›½ç§»åŠ¨cmccä¸­å›½ç”µä¿¡telecomä¸­å›½è”é€šcucc(ä¹Ÿå°±æ˜¯èº«ä»½è¯åé¢éœ€è¦æ”¹çš„@åé¢çš„å·²ç»æ ‡æ³¨äº†æ”¹æˆ‘)
+ ' å¯†ç é»˜è®¤6ä¸ª8çœ‹ä½ è‡ªå·±è®¾ç½®
+ ' è¯¥vbsè„šæœ¬é—²æ¥æ— äº‹ç¼–å†™ï¼Œå…è´¹ä½¿ç”¨-----hytongxue
 Set  objeShell = CreateObject("Wscript.Shell")
-objeShell.Run("http://10.2.255.26:801/eportal/portal/login?callback=dr1003&login_method=1&user_account=¸ÄÎÒ@¸ÄÎÒ&user_password=888888&wlan_user_ip=&wlan_user_ipv6=&wlan_user_mac=000000000000&wlan_ac_ip=&wlan_ac_name=&jsVersion=4.1.3&terminal_type=2&lang=zh-cn&v=4360&lang=zh")
-msgbox"³É¹¦Á¬½ÓÍøÂç£¡£¡£¡£¡£¡ºÃ°ÉÎÒÆ­ÄãµÄ£¡²»ĞÅÄã´ò¿ª°Ù¶È¿´¿´"
+objeShell.Run("http://10.2.255.26:801/eportal/portal/login?callback=dr1003&login_method=1&user_account=æ”¹æˆ‘@æ”¹æˆ‘&user_password=888888&wlan_user_ip=&wlan_user_ipv6=&wlan_user_mac=000000000000&wlan_ac_ip=&wlan_ac_name=&jsVersion=4.1.3&terminal_type=2&lang=zh-cn&v=4360&lang=zh")
+msgbox"æˆåŠŸè¿æ¥ç½‘ç»œï¼ï¼ï¼ï¼ï¼ä¸ä¿¡ä½ æ‰“å¼€ç™¾åº¦çœ‹çœ‹"
 objeShell.Run("www.baidu.com")
